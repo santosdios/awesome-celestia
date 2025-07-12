@@ -1045,11 +1045,22 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 -  https://celestia.api.cumulo.org.es:443  
 -  celestia.grpc.cumulo.org.es:443  
 
+##### Archive Endpoints
+-  https://rpc.archive.celestia.cumulo.com.es:443    
+-  https://api.archive.celestia.cumulo.com.es:443   
+-  grpc.archive.celestia.cumulo.com.es:443
+-  wss://rpc.archive.celestia.cumulo.com.es/websocket
+
 #### Testnet  
 ##### Endpoints  
--  https://dym.rpc.cumulo.com.es:443  
--  https://dym.api.cumulo.com.es:443  
--  celestia.grpc.cumulo.org.es:443  
+-  https://mocha.celestia.rpc.cumulo.me:443  
+-  https://mocha.api.cumulo.me:443  
+-  mocha.grpc.cumulo.me:443  
+
+##### Archive Endpoints
+-  https://rpc.archive.mocha.cumulo.com.es:443    
+-  https://api.archive.mocha.cumulo.com.es:443   
+-  grpc.archive.mocha.cumulo.com.es:443
 
 ##### Celestia monitoring system  
 Dashboard for Consensus Nodes with all available metrics for Celestia:  
@@ -1072,8 +1083,9 @@ All the projects that use Celestia as a data availability layer
 [Modular Summit](https://modular.cumulo.pro/)  
 Website dedicated to our content about Modular Summit events.
 
-[Guides Cumulo](https://cumulo.pro/celestia/content.php)  
+[Guides Cumulo](https://cumulo.pro/services/celestia_mocha/content?page=content)  
 Compilation of technical guides and resources, such as node guides, monitoring systems, ...
+
 
 ---
 
